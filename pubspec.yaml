@@ -1,0 +1,50 @@
+name: sartoria_valencia
+description: App Sartoria Valencia
+publish_to: "none"
+
+version: 1.0.3+5
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+# ===============================
+# DIPENDENZE
+# ===============================
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_svg: ^2.2.4
+  url_launcher: ^6.3.2
+  image_picker: ^1.0.7
+  pdf: ^3.10.7
+  printing: ^5.12.0
+  sqflite: ^2.4.2
+  path: ^1.9.1
+  path_provider: ^2.1.5
+  path_drawing: ^1.0.1
+  firebase_core: ^4.5.0
+
+# ===============================
+# DEV DEPENDENCIES
+# ===============================
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+
+# ===============================
+# FLUTTER CONFIG
+# ===============================
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/icons/Logo.png"

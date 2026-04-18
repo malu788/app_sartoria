@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718545725337",
+    "project_id": "app-sartoria",
+    "storage_bucket": "app-sartoria.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718545725337:android:1eea856e0269875c58d508",
+        "android_client_info": {
+          "package_name": "com.sartoria.valencia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMCvODKELJ2klqME2CxK3cRYhxvT1-hUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
