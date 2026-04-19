@@ -108,6 +108,17 @@ class CostumeSuMisuraPage extends StatelessWidget {
     ),
 
 
+    Abito(
+      titolo: "l"
+          "Completo Atelier Blu",
+      immagini: [
+        "assets/icons/Foto125.png",
+        "assets/icons/foto126.png",
+        "assets/icons/foto127.png",
+
+      ],
+    ),
+
 
   ];
 

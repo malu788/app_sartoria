@@ -80,6 +80,27 @@ final List<Map<String, dynamic>> lavori = [
 
   'colori': ['Nero', 'Roso', 'Bianco'],
 },
+  {
+    'titolo': 'Leggins sportivo donna',
+
+    'immagini': [
+      'assets/icons/foto120.jpg',
+      'assets/icons/foto121.jpg',
+      'assets/icons/foto123.jpg'
+    ],
+
+    'descrizione':
+    'leggis sportivi vita alta, realizzati in tessuto elastico.',
+
+    'prezzo': '__',
+
+    'taglie': ['S', 'M', 'L', 'XL'],
+
+    'colori': ['Nero', 'Roso', 'Bianco'],
+  },
+
+
+
 ];
 
 /// ============================

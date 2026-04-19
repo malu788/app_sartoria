@@ -167,7 +167,7 @@ class HomePage extends StatelessWidget {
             // COSTUME SU MISURA
             _menuButton(
               context,
-              testo: 'Costume su misura',
+              testo: 'Abiti su misura',
               onTap: () {
                 Navigator.push(
                   context,
